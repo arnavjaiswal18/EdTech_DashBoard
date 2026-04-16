@@ -28,19 +28,8 @@ The analysis is built upon a relational data model that optimizes performance an
 - The model implements a **One-to-Many relationship** between instructors and their respective courses, allowing for granular analysis of performance across different teaching categories.
 
 ---
+*Created as part of the EdTech Data Analytics Initiative.*
 
-## 📸 Project Previews
-
-Here are some snapshots of the Power BI dashboard:
-
-### Main Dashboard (Filtered for Data Science)
-![Online Courses Analysis - Data Science](file:///d:/EdTech_DashBoard/Screenshot%202026-04-16%20212336.png)
-
-### Comprehensive View & Instructor Ratings
-![Instructor Performance & Global Metrics](file:///d:/EdTech_DashBoard/Screenshot%202026-04-16%20212417.png)
-
-### The Data Relationship Model
-![Data Schema](file:///d:/EdTech_DashBoard/Screenshot%202026-04-16%20212711.png)
 
 ---
 *Created as part of the EdTech Data Analytics Initiative.*
