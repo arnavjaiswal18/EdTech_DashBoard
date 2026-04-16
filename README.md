@@ -30,6 +30,3 @@ The analysis is built upon a relational data model that optimizes performance an
 ---
 *Created as part of the EdTech Data Analytics Initiative.*
 
-
----
-*Created as part of the EdTech Data Analytics Initiative.*
