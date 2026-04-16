@@ -2,6 +2,13 @@
 
 A comprehensive Power BI analysis project focused on understanding viewership trends, course popularity, and instructor performance in the online education sector.
 
+## 🚀 Key Highlights
+
+- **Interactive Dashboard**: Developed an interactive Power BI dashboard to analyze course performance, ratings, and engagement.
+- **Data Transformation**: Performed data cleaning & transformation using Power Query, ensuring data accuracy and consistency.
+- **Trend Analysis**: Conducted data analysis & visualization for course popularity, instructor performance, and language trends.
+
+
 ## 📊 Dashboard Overview
 
 The project features a multi-faceted dashboard designed to provide actionable insights into the online learning ecosystem. It analyzes key metrics such as coarse type popularity, language distribution, and the impact of course duration on viewership.
